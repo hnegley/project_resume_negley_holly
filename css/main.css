@@ -102,10 +102,10 @@ body {
 }
 
 #content {
-    width:37%;
+    width:53%;
     margin:0 auto;
     padding: 5% 20% 10% 20%;
-    background-color: pink;
+    background-color: #D8D8D8;
 }
 
 img {
