@@ -95,6 +95,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    padding-left: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
 
 
 
