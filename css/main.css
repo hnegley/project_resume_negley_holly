@@ -104,12 +104,14 @@ body {
 #content {
     width:53%;
     margin:0 auto;
-    padding: 5% 15% 10% 15%;
-    background-color: #FFCCCC;
+    padding: 5% 8% 10% 8%;
+    background-color: white;
+    opacity: .95;
 }
 
 img {
     width: 75%;
+    background-color: white;
 }
 
 h1 {
